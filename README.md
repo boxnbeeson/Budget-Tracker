@@ -1,7 +1,5 @@
 # Budget Tracker
-  Budget Tracker allows the user to track their spending in various circumstances
-  <br>
-  Will be provided once project is deployable
+  Budget Tracker allows the user to track their spending in various circumstances (discontinued project)
   ## Table of Contents
   * [Demo](#demo)
   * [Installation](#installation)
